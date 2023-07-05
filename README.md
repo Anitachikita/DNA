@@ -2,10 +2,6 @@
 
 This project is a part of the Harvard CS50 Course (2023) and involves analyzing DNA sequences. The goal of this project is to implement a program that takes a DNA sequence as input and performs various analyses on it.
 
-## Programming Language: Python
-
-The project is implemented in Python, a versatile and widely-used programming language known for its simplicity and readability.
-
 ## How It Works
 
 There are two main datasets compared within this program: the CSV database files and the DNA sequences. 
